@@ -164,7 +164,7 @@ task.spawn(function()
 end)
 
 Rayfield:Notify({
-   Title = "起動成功",
+   Title = "起動が成功しました",
    Content = "chat spammerV1.1",
    Duration = 5
 })
