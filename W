@@ -164,7 +164,7 @@ task.spawn(function()
 end)
 
 Rayfield:Notify({
-   Title = "MGBLX V29 起動完了",
-   Content = "Admin監視・Ping/FPS取得機能を搭載。全システム正常。",
+   Title = "起動成功",
+   Content = "chat spammerV1.1",
    Duration = 5
 })
