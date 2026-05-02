@@ -3,9 +3,9 @@
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-   Name = "MGBLX Spammer V29",
+   Name = "chat spammerV1.1",
    LoadingTitle = "起動中...",
-   LoadingSubtitle = "by Gemini",
+   LoadingSubtitle = "by mgblxx & noobJohnson",
    ConfigurationSaving = { Enabled = false }
 })
 
